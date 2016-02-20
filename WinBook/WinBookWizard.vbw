@@ -1,0 +1,4 @@
+ModConsoleMain = 0, 0, 0, 0, C
+frmStartUp = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmWizard = 0, 0, 0, 0, C, 44, 58, 455, 397, C
+frmWizardMain = 0, 0, 0, 0, C, 22, 29, 433, 368, C
